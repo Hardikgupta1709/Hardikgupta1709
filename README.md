@@ -115,7 +115,7 @@ const currentProjects = [
 
 </div>
 
----
+
 
 ##  GitHub Stats
 
@@ -138,8 +138,6 @@ const currentProjects = [
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hardikgupta1709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikgupta1709&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikgupta1709&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
