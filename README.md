@@ -2,21 +2,21 @@
 
 #  Hey, I'm Hardik Gupta
 
-### Computer Science Student | ML Researcher | Full-Stack Developer
+### Computer Science Student | Full-Stack Developer
 
-*Building innovative solutions at the intersection of AI and Software Engineering*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikgupta1709)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hardikgupta1709)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikgupta506@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hardikgupt.a)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hardikgupta1709&color=blueviolet&style=flat-square)
+
+
 
 </div>
 
 ---
 
-## 🎯 Quick Facts
+##  Quick Facts
 
 ```python
 hardik = {
@@ -24,14 +24,14 @@ hardik = {
     "education": "B.Tech CSE @ Manipal University Jaipur",
     "cgpa": "9.25/10 ",
     "interests": ["Machine Learning", "Big Data", "Full-Stack Development"],
-    "current_focus": "AI-Powered Applications & Data Science",
+    "current_focus": "Full Stack Development,"Data Structures & Algorithm",
     "awards": ["Dean's Excellence Award (3x)", "IIT-BHU TECHNEX Runner-Up"]
 }
 ```
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -50,7 +50,6 @@ hardik = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -97,55 +96,24 @@ hardik = {
 </tr>
 </table>
 
-### 🔨 Currently Working On
+###  Currently Working On
 
 ```javascript
 const currentProjects = [
   {
-    name: "Advanced ML Models",
-    tech: ["Deep Learning", "Neural Networks"],
+    name: "Kal-Mal",
+    tech: ["Trading Algorithm", "Machine Learning"],
     status: "In Progress "
-  },
-  {
-    name: "Full-Stack Web Applications",
-    tech: ["MERN Stack", "Cloud Deployment"],
-    status: "Exploring "
   }
 ];
 ```
 
 ---
 
-##  Experience & Research
 
-###  ML Research Intern @ MIIC, MNIT Jaipur
-*June 2025 - Aug 2025*
 
--  Developed **LVH detection models** from 21K+ ECG recordings
--  Achieved **96% accuracy** with ensemble methods
--  Engineered robust preprocessing pipeline
--  **99.84% specificity** in medical diagnostics
-
----
-
-##  Achievements
-
-<div align="center">
-
-|  Achievement |  Year |
-|:---|:---:|
-| Runner-Up, 1 Billion Row Code Challenge (IIT-BHU TECHNEX-25) | 2025 |
-| Dean's Excellence Award (3x) | 2024-25 |
-| CGPA: 9.5/10 (Semester 2) | 2024 |
 
 </div>
-
----
-
-##  Certifications
-
--  **Introduction to Machine Learning** - NPTEL (IIT Madras) | Spring 2025
--  **Programming, DSA using Python** - NPTEL (CMI) | Fall 2024
 
 ---
 
