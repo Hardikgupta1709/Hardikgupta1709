@@ -2,17 +2,20 @@
 
 #  Hey, I'm Hardik Gupta
 
-### | Computer Science Student | 
-
+### Computer Science Student | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikgupta1709)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikgupta506@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hardikgupt.a)
 
-
-
-
 </div>
+
+---
+
+##  About Me
+
+I'm a currently focusing on Data Structures And Algorithms while building production-ready-systems
+
 
 ---
 
@@ -20,12 +23,12 @@
 
 ```python
 hardik = {
-    "location": "Jaipur, Rajasthan ",
+    "location": "Jaipur, Rajasthan",
     "education": "B.Tech CSE @ Manipal University Jaipur",
-    "cgpa": "9.25/10 ",
+    "cgpa": "9.25/10",
     "interests": ["Machine Learning", "Big Data", "Full-Stack Development"],
-    "current_focus": "Full Stack Development,"Data Structures & Algorithm",
-    "awards": ["Dean's Excellence Award (3x)", "IIT-BHU TECHNEX Runner-Up"]
+    "current_focus": ["Full Stack Development", "Data Structures & Algorithms"],
+    "awards": ["Dean's Excellence Award (3x)", "IIT-BHU TECHNEX Runner-Up"],
 }
 ```
 
@@ -36,6 +39,7 @@ hardik = {
 <div align="center">
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,6 +48,7 @@ hardik = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -52,6 +57,7 @@ hardik = {
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -67,7 +73,7 @@ hardik = {
 <tr>
 <td width="50%">
 
-####  AI Research Paper System
+###  AI Research Paper System
 *Streamlit | Python | Google Cloud*
 
 -  **70% reduction** in submission time
@@ -80,7 +86,7 @@ hardik = {
 </td>
 <td width="50%">
 
-####  Billion-Scale Data Pipeline
+###  Billion-Scale Data Pipeline
 *PySpark | GPU Acceleration*
 
 -  **Runner-Up** @ IIT-BHU TECHNEX-25
@@ -101,17 +107,11 @@ const currentProjects = [
   {
     name: "Kal-Mal",
     tech: ["Trading Algorithm", "Machine Learning"],
-    status: "In Progress "
+    status: "In Progress ",
+    description: "Building intelligent trading algorithms with ML-powered predictions"
   }
 ];
-
----
-
-
-
-
-
----
+```
 
 ##  Let's Connect!
 
@@ -122,15 +122,9 @@ I'm always open to interesting conversations and collaboration opportunities!
  **Email:** hardikgupta506@gmail.com  
  **LinkedIn:** [hardikgupta1709](https://linkedin.com/in/hardikgupta1709)  
 
-
-
 </div>
 
 ---
 
-<div align="center">
-
-
-![](https://komarev.com/ghpvc/?username=Hardikgupta1709&style=flat-square&color=blue)
 
 </div>
