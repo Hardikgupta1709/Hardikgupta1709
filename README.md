@@ -1,3 +1,36 @@
+ <div align="center">
+
+# hardik@dev
+
+**`hardik@dev:~$ ./contributions.sh`**
+
+<img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
+
+**`hardik@dev:~$ whoami`**
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="./info-card.svg" width="100%" alt="Developer information card" />
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <pre>
+USER: Hardik Gupta
+ROLE: CSE Undergraduate
+FOCUS: Systems Programming, AI/ML
+LANGUAGES: C, C++, Python
+BUILDING: macMPI
+STATUS: Open to SWE / ML opportunities
+      </pre>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Hardik%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20ML%20Learner%20&descAlignY=55&descSize=18&fontAlign=50)
