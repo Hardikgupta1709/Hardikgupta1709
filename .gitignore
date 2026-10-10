@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+source-photo.jpg
+prepared-photo.png
+.DS_Store
